@@ -41,7 +41,7 @@ Let me start with a confession; although it is one of my favourite theories in b
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1760289447156/8f364c68-f474-4a94-b99f-08f7b9be2f0d.jpeg align="center")
 
-And of course, thinking about what I’ve learned, I realise something: reality isn’t a fixed point. It isn’t that the models of Dalton, Thomson, Rutherford, or Bohr were simply “*wrong*”; each served its purpose in its historical context and offered a useful, predictive picture of reality. The same is true of the quantum mechanical model: it is complex, it is more complete and accurate than its predecessors, and still evolving.
+And of course, thinking about what I’ve learned, I realise something: reality isn’t a fixed point. It isn’t that the models of Dalton, Thomson, Rutherford, or Bohr were simply “*wrong*”; each served its purpose in its historical context and offered a useful, predictive picture of reality. The same is true of the quantum mechanical model: it is complex, more complete and accurate than its predecessors, and still evolving.
 
 > Just as our knowledge advances, so too do our models.
 
@@ -53,9 +53,9 @@ This is why I do not like to speak of science as if it provided absolute truths.
 
 The scientific revolution is a progressive rejection of entrenched dogmas that gradually separated other systems from empirically testable knowledge. Alchemy, astrology, physiognomy, numerology, humoralism… drifted away from what we now call **scientific knowledge**. Change defined the sixteenth and seventeenth centuries.
 
-It is well known that Isaac Newton, one of the most influential scientists in history, **referred to himself as an alchemist**. He produced a substantial corpus on alchemy, amounting to over a million words. This far exceeds the combined volume of his work in mathematics, optics and physics.
+It is well known that Isaac Newton, one of the most influential scientists in history, **referred to himself as an alchemist**. He produced a substantial corpus of over a million words on alchemy. A compilation that far exceeds the combined volume of his work in mathematics, optics and physics.
 
-With these statements, I don’t want to dismiss Newton; I admire him deeply. What I want to highlight is that. Even though he dedicates most of his life exploring ideas that lack a modern rational foundation, None could dare that his discoveries are unmatched, being considered from many (myself includes) as the best scientics ever made
+With these statements, I don’t want to dismiss Newton; I admire him deeply. What I want to highlight is that. Even though he dedicates most of his life exploring ideas that lack a modern rational foundation, None could dare that his discoveries are unmatched, being considered by many (including myself) as the best science ever born.
 
 > “And now we might add something concerning a certain most subtle Spirit which pervades and lies hid in all gross bodies; by the force and action of which Spirit the particles of bodies mutually attract one another at near distances… and all sensation is excited, and the members of animal bodies move at the command of the will.” — *Principia*
 
@@ -63,11 +63,11 @@ With these statements, I don’t want to dismiss Newton; I admire him deeply. Wh
 
 ## 🧠 Biases
 
-There is nothing more human than an opinion, but science is the craft of disciplining opinions with methods. Bias can slip in at every step: the questions we ask, the measures we choose, the results we publish, and the findings we quietly ignore.
+There is nothing more human than an opinion, but science is the discipline of shaping opinions through methods. Bias can slip in at every step: the questions we ask, the measures we utilise, the results we publish, and the findings we silently dismiss.
 
 **A quick example**: A famous paper on pluripotent cells was cited 4,482 times. Later, a detailed audit found two figures with identical regions shown in different contexts. In plain terms, the images had been altered, so those panels contained falsified data. By then, the paper had already been echoed through thousands of articles as background or support, showing how errors or misconduct can survive peer review and propagate across a field.
 
-Another example is the **sugar industry’s influence in the 1960s**. The Sugar Research Foundation funded Harvard researchers to write a high-profile review that downplayed links between sugar and heart disease while shifting blame to saturated fat. The payments weren’t disclosed (journals didn’t require it then), and the review shaped decades of public debate and policy. Decades later, internal documents surfaced showing the funder’s role, and re-analyses have painted a more mixed picture of sugar’s risks. It’s a textbook case of how well-funded interests can seed the literature and public messaging to tilt opinion.
+Another example is the **sugar industry’s influence in the 1960s**. The Sugar Research Foundation funded Harvard researchers to write a high-profile review that downplayed links between sugar and heart disease while shifting blame to saturated fat. The payments weren’t disclosed (journals didn’t require it at the time), and the review shaped decades of public debate and policy. Decades later, internal documents surfaced showing the funder’s role, and re-analyses have painted a more mixed picture of sugar’s risks. It’s a textbook case of how well-funded interests can seed the literature and public messaging to tilt opinion.
 
 ---
 
