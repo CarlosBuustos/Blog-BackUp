@@ -8,7 +8,7 @@ tags: physics, nobel-prize
 
 ---
 
-I have a ritual every October. While other people wait for Halloween or the change of seasons, I wait for something different: **The Nobel Prize announcements**. As someone who grew up in science, this ceremony is almost a ritual for me. I sit with popcorn, hold my breath, and end up shouting at the end. I am so nerdy :P
+I have a ritual every October. While other people wait for Halloween or the change of seasons, I wait for something different: **The Nobel Prize announcements**. As someone who grew up in science, this ceremony feels almost a ritual to me. Sitting in front of the TV (popcorn included) and narrating the nomineès with my best sports commentator voice. I am so nerdy :P
 
 This year, I took it one step further: **I MADE A BINGO.** I collected the *clichés* and everything that cannot be missing from a good Nobel ceremony, and I put them in small squares to tick off as the show unfolded. *Alea iacta est.*
 
