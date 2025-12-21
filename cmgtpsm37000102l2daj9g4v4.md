@@ -1,5 +1,5 @@
 ---
-title: "The 2025 Physics Nobel Prize goes to...🎖️"
+title: "🎖️The 2025 Physics Nobel Prize goes to..."
 datePublished: Thu Oct 16 2025 17:49:31 GMT+0000 (Coordinated Universal Time)
 cuid: cmgtpsm37000102l2daj9g4v4
 slug: the-2025-physics-nobel-prize-goes-to
