@@ -1,5 +1,5 @@
 ---
-title: "Across Time’s Border⏱️"
+title: "⏱️Across Time’s Border"
 datePublished: Fri Oct 31 2025 23:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmhqyp118000202jmg7k8ddmt
 slug: across-tim
