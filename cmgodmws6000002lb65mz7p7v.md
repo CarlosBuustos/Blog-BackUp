@@ -1,5 +1,5 @@
 ---
-title: "Science is not 'Absolute'🧪"
+title: "🧪Science is not 'Absolute'"
 datePublished: Mon Oct 13 2025 00:10:19 GMT+0000 (Coordinated Universal Time)
 cuid: cmgodmws6000002lb65mz7p7v
 slug: science-is-not-absolute
