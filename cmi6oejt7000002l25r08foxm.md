@@ -1,5 +1,5 @@
 ---
-title: "☄️Why i3/ATLAS is weird"
+title: "Why i3/ATLAS is weird☄️"
 datePublished: Thu Nov 20 2025 00:11:18 GMT+0000 (Coordinated Universal Time)
 cuid: cmi6oejt7000002l25r08foxm
 slug: why-i3atlas-is-weird
