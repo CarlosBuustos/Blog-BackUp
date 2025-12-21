@@ -1,5 +1,5 @@
 ---
-title: "My War Against AI🤖"
+title: "🤖My War Against AI"
 datePublished: Sat Nov 08 2025 18:23:42 GMT+0000 (Coordinated Universal Time)
 cuid: cmhqm55vs000402jofct47c3f
 slug: my-war-against-ai
