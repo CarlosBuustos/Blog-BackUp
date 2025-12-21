@@ -1,5 +1,5 @@
 ---
-title: "Who can be a Scientist, Richard Feynman🌌"
+title: "🌌Who can be a Scientist, Richard Feynman"
 datePublished: Thu Oct 02 2025 17:03:43 GMT+0000 (Coordinated Universal Time)
 cuid: cmg9nzrt0000002ky93mf5ltk
 slug: who-can-be-a-scientist-richard-feynman
