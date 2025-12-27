@@ -4,7 +4,6 @@ datePublished: Thu Nov 20 2025 00:11:18 GMT+0000 (Coordinated Universal Time)
 cuid: cmi6oejt7000002l25r08foxm
 slug: why-i3atlas-is-weird
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1763597413855/59e5addf-fa1d-4aee-9adf-4f9838f8d663.png
-tags: science, comet, 3iatlas
 
 ---
 
