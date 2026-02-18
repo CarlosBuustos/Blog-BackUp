@@ -12,7 +12,7 @@ Forgive me for breaking the blog's tone. Today I want to talk about something ev
 
 To illustrate what I mean, here’s a real conversation I had last week with a university classmate:  
 → **Him:** Hey, I heard that you have a blog. Can I take a look?  
-→ **Me:** Of course. *I type the URL on his laptop\**  
+→ **Me:** Of course. \**I type the URL on his laptop\**  
 → **Him:** \**Clicks on two random articles\** Wow, looks interesting… but don’t you think you’ve used too much AI?  
 → **Me:** &gt;:(
 
